@@ -1,3 +1,4 @@
 # SocialMedia
-Social Media app based upon gaming. \n
+#
+Social Media app based upon gaming.
 More information later.
